@@ -33,8 +33,9 @@ $(function () {
 					markers: temp,
 					markerStyle: {
 						initial: {
-							fill: 'yellow',
-							stroke: 'red',
+							image: "./assets/images/mcd-logo.png",
+							//fill: 'yellow',
+							//stroke: 'red',
 						},
 					},
 					regionStyle: {

@@ -1,0 +1,653 @@
+[
+	{
+		"coordinates": {
+			"lat": 55.722973,
+			"lng": 12.384553
+		},
+		"name": "Ballerup"
+	},
+	{
+		"coordinates": {
+			"lat": 55.716314,
+			"lng": 12.437536
+		},
+		"name": "Herlev"
+	},
+	{
+		"coordinates": {
+			"lat": 55.664429,
+			"lng": 12.379324
+		},
+		"name": "Glostrup"
+	},
+	{
+		"coordinates": {
+			"lat": 55.691881,
+			"lng": 12.463158
+		},
+		"name": "Rødovre - Jyllingevej"
+	},
+	{
+		"coordinates": {
+			"lat": 55.741931,
+			"lng": 12.493134
+		},
+		"name": "Gladsaxe"
+	},
+	{
+		"coordinates": {
+			"lat": 55.669407,
+			"lng": 12.437698
+		},
+		"name": "Brøndby"
+	},
+	{
+		"coordinates": {
+			"lat": 55.659655,
+			"lng": 12.288397
+		},
+		"name": "Taastrup"
+	},
+	{
+		"coordinates": {
+			"lat": 55.754729,
+			"lng": 12.517601
+		},
+		"name": "Gentofte"
+	},
+	{
+		"coordinates": {
+			"lat": 55.645177,
+			"lng": 12.460253
+		},
+		"name": "Hvidovre"
+	},
+	{
+		"coordinates": {
+			"lat": 55.6800961,
+			"lng": 12.5338121
+		},
+		"name": "Frederiksberg"
+	},
+	{
+		"coordinates": {
+			"lat": 55.622709,
+			"lng": 12.39075
+		},
+		"name": "Vallensbæk"
+	},
+	{
+		"coordinates": {
+			"lat": 55.840961,
+			"lng": 12.440987
+		},
+		"name": "Birkerød"
+	},
+	{
+		"coordinates": {
+			"lat": 55.649853,
+			"lng": 12.507323
+		},
+		"name": "Valby"
+	},
+	{
+		"coordinates": {
+			"lat": 55.704633,
+			"lng": 12.577506
+		},
+		"name": "København - Østerbrogade"
+	},
+	{
+		"coordinates": {
+			"lat": 55.6833295,
+			"lng": 12.5721897
+		},
+		"name": "København - Nørrevold"
+	},
+	{
+		"coordinates": {
+			"lat": 55.673122,
+			"lng": 12.564299
+		},
+		"name": "København - Hovedbanegården"
+	},
+	{
+		"coordinates": {
+			"lat": 55.675161,
+			"lng": 12.567066
+		},
+		"name": "København - Industriens Hus"
+	},
+	{
+		"coordinates": {
+			"lat": 55.662809,
+			"lng": 12.561901
+		},
+		"name": "København - Fisketorvet"
+	},
+	{
+		"coordinates": {
+			"lat": 55.5997,
+			"lng": 12.329161
+		},
+		"name": "Greve"
+	},
+	{
+		"coordinates": {
+			"lat": 55.679581,
+			"lng": 12.584783
+		},
+		"name": "København - Kgs. Nytorv"
+	},
+	{
+		"coordinates": {
+			"lat": 55.642188,
+			"lng": 12.11557
+		},
+		"name": "Roskilde - Københavnsvej"
+	},
+	{
+		"coordinates": {
+			"lat": 55.903457,
+			"lng": 12.476864
+		},
+		"name": "Hørsholm"
+	},
+	{
+		"coordinates": {
+			"lat": 55.634228,
+			"lng": 12.073604
+		},
+		"name": "Roskilde - Ringstedgade"
+	},
+	{
+		"coordinates": {
+			"lat": 55.843443,
+			"lng": 12.075203
+		},
+		"name": "Frederikssund"
+	},
+	{
+		"coordinates": {
+			"lat": 55.631279,
+			"lng": 12.656958
+		},
+		"name": "Kastrup"
+	},
+	{
+		"coordinates": {
+			"lat": 55.545918,
+			"lng": 12.214892
+		},
+		"name": "Solrød"
+	},
+	{
+		"coordinates": {
+			"lat": 55.934887,
+			"lng": 12.26266
+		},
+		"name": "Hillerød"
+	},
+	{
+		"coordinates": {
+			"lat": 55.479772,
+			"lng": 12.18601
+		},
+		"name": "Køge"
+	},
+	{
+		"coordinates": {
+			"lat": 55.968863,
+			"lng": 12.029652
+		},
+		"name": "Frederiksværk"
+	},
+	{
+		"coordinates": {
+			"lat": 56.026767,
+			"lng": 12.588752
+		},
+		"name": "Helsingør"
+	},
+	{
+		"coordinates": {
+			"lat": 55.716998,
+			"lng": 11.705871
+		},
+		"name": "Holbæk"
+	},
+	{
+		"coordinates": {
+			"lat": 55.45151,
+			"lng": 11.78576
+		},
+		"name": "Ringsted"
+	},
+	{
+		"coordinates": {
+			"lat": 55.250656,
+			"lng": 11.779522
+		},
+		"name": "Næstved - Gl. Holstedvej"
+	},
+	{
+		"coordinates": {
+			"lat": 55.223052,
+			"lng": 11.7584
+		},
+		"name": "Næstved - Havnen"
+	},
+	{
+		"coordinates": {
+			"lat": 55.391791,
+			"lng": 11.353344
+		},
+		"name": "Slagelse"
+	},
+	{
+		"coordinates": {
+			"lat": 54.998,
+			"lng": 12.002
+		},
+		"name": "Vordingborg"
+	},
+	{
+		"coordinates": {
+			"lat": 55.3522948,
+			"lng": 11.1376926
+		},
+		"name": "McDonald's Korsør"
+	},
+	{
+		"coordinates": {
+			"lat": 55.309057,
+			"lng": 10.805974
+		},
+		"name": "Nyborg"
+	},
+	{
+		"coordinates": {
+			"lat": 54.768625,
+			"lng": 11.875788
+		},
+		"name": "Nykøbing Falster"
+	},
+	{
+		"coordinates": {
+			"lat": 56.405986,
+			"lng": 10.873493
+		},
+		"name": "Grenaa"
+	},
+	{
+		"coordinates": {
+			"lat": 55.382079,
+			"lng": 10.42962
+		},
+		"name": "Odense - Rosengårdscentret"
+	},
+	{
+		"coordinates": {
+			"lat": 55.39723941,
+			"lng": 10.3887509
+		},
+		"name": "Odense City"
+	},
+	{
+		"coordinates": {
+			"lat": 55.352244,
+			"lng": 10.405747
+		},
+		"name": "Odense - Svendborgvej"
+	},
+	{
+		"coordinates": {
+			"lat": 55.410264,
+			"lng": 10.339376
+		},
+		"name": "Odense - Tarupcentret"
+	},
+	{
+		"coordinates": {
+			"lat": 55.060686,
+			"lng": 10.599862
+		},
+		"name": "Svendborg"
+	},
+	{
+		"coordinates": {
+			"lat": 56.201931,
+			"lng": 10.245838
+		},
+		"name": "Risskov - Grenåvej"
+	},
+	{
+		"coordinates": {
+			"lat": 56.15033,
+			"lng": 10.20496
+		},
+		"name": "Århus - Banegård"
+	},
+	{
+		"coordinates": {
+			"lat": 56.1558256,
+			"lng": 10.20681415
+		},
+		"name": "Århus - Telefontorvet"
+	},
+	{
+		"coordinates": {
+			"lat": 56.179301,
+			"lng": 10.200146
+		},
+		"name": "Århus - Randersvej"
+	},
+	{
+		"coordinates": {
+			"lat": 56.129367,
+			"lng": 10.160811
+		},
+		"name": "Viby"
+	},
+	{
+		"coordinates": {
+			"lat": 56.115032,
+			"lng": 10.151467
+		},
+		"name": "Viby - Mega Syd"
+	},
+	{
+		"coordinates": {
+			"lat": 56.181839,
+			"lng": 10.12256
+		},
+		"name": "Tilst"
+	},
+	{
+		"coordinates": {
+			"lat": 55.4135137,
+			"lng": 10.0546616
+		},
+		"name": "Aarup"
+	},
+	{
+		"coordinates": {
+			"lat": 56.068451,
+			"lng": 9.977298
+		},
+		"name": "Stilling"
+	},
+	{
+		"coordinates": {
+			"lat": 55.870185,
+			"lng": 9.865614
+		},
+		"name": "Horsens - Flintebakken"
+	},
+	{
+		"coordinates": {
+			"lat": 55.846614,
+			"lng": 9.824739
+		},
+		"name": "Horsens - Vejlevej"
+	},
+	{
+		"coordinates": {
+			"lat": 56.429177,
+			"lng": 10.056615
+		},
+		"name": "Randers - Paderup"
+	},
+	{
+		"coordinates": {
+			"lat": 55.509883,
+			"lng": 9.767849
+		},
+		"name": "Middelfart"
+	},
+	{
+		"coordinates": {
+			"lat": 56.457882,
+			"lng": 10.033055
+		},
+		"name": "Randers - Tørvebryggen"
+	},
+	{
+		"coordinates": {
+			"lat": 55.569337,
+			"lng": 9.726389
+		},
+		"name": "Fredericia - Vejlevej"
+	},
+	{
+		"coordinates": {
+			"lat": 55.534456,
+			"lng": 9.71698
+		},
+		"name": "Fredericia - Erritsø"
+	},
+	{
+		"coordinates": {
+			"lat": 55.748817,
+			"lng": 9.590124
+		},
+		"name": "Vejle - DTC"
+	},
+	{
+		"coordinates": {
+			"lat": 55.67478,
+			"lng": 9.579799
+		},
+		"name": "Vejle - Vinding"
+	},
+	{
+		"coordinates": {
+			"lat": 56.184415,
+			"lng": 9.545169
+		},
+		"name": "Silkeborg"
+	},
+	{
+		"coordinates": {
+			"lat": 55.504029,
+			"lng": 9.457587
+		},
+		"name": "Kolding"
+	},
+	{
+		"coordinates": {
+			"lat": 54.924031,
+			"lng": 9.807416
+		},
+		"name": "Sønderborg"
+	},
+	{
+		"coordinates": {
+			"lat": 55.251253,
+			"lng": 9.490481
+		},
+		"name": "McDonald's Haderslev"
+	},
+	{
+		"coordinates": {
+			"lat": 56.4523,
+			"lng": 9.4487
+		},
+		"name": "Viborg - Overlund"
+	},
+	{
+		"coordinates": {
+			"lat": 55.9282642,
+			"lng": 9.1584453
+		},
+		"name": "Brande"
+	},
+	{
+		"coordinates": {
+			"lat": 56.783518,
+			"lng": 9.695081
+		},
+		"name": "Haverslev"
+	},
+	{
+		"coordinates": {
+			"lat": 56.448114,
+			"lng": 9.365196
+		},
+		"name": "Viborg - Morsøvej"
+	},
+	{
+		"coordinates": {
+			"lat": 56.1221952,
+			"lng": 9.1714785
+		},
+		"name": "Ikast"
+	},
+	{
+		"coordinates": {
+			"lat": 55.067912,
+			"lng": 9.361443
+		},
+		"name": "Rødekro"
+	},
+	{
+		"coordinates": {
+			"lat": 55.493209,
+			"lng": 9.127744
+		},
+		"name": "Vejen"
+	},
+	{
+		"coordinates": {
+			"lat": 56.9531459,
+			"lng": 9.8625409
+		},
+		"name": "Svenstrup"
+	},
+	{
+		"coordinates": {
+			"lat": 57.00922,
+			"lng": 9.88586
+		},
+		"name": "Skalborg"
+	},
+	{
+		"coordinates": {
+			"lat": 57.049326,
+			"lng": 9.921994
+		},
+		"name": "Aalborg - Nytorv"
+	},
+	{
+		"coordinates": {
+			"lat": 57.070059,
+			"lng": 9.946626
+		},
+		"name": "Nørresundby"
+	},
+	{
+		"coordinates": {
+			"lat": 56.13413,
+			"lng": 9.00737
+		},
+		"name": "Herning - Åvænget"
+	},
+	{
+		"coordinates": {
+			"lat": 56.13498,
+			"lng": 8.984771
+		},
+		"name": "Herning - Silkeborgvej"
+	},
+	{
+		"coordinates": {
+			"lat": 57.446676,
+			"lng": 10.508026
+		},
+		"name": "Frederikshavn"
+	},
+	{
+		"coordinates": {
+			"lat": 57.25256,
+			"lng": 9.97521
+		},
+		"name": "Brønderslev"
+	},
+	{
+		"coordinates": {
+			"lat": 57.148909,
+			"lng": 9.751241
+		},
+		"name": "Aabybro"
+	},
+	{
+		"coordinates": {
+			"lat": 56.564379,
+			"lng": 9.030199
+		},
+		"name": "Skive"
+	},
+	{
+		"coordinates": {
+			"lat": 54.951033,
+			"lng": 8.8879
+		},
+		"name": "Tønder"
+	},
+	{
+		"coordinates": {
+			"lat": 57.455955,
+			"lng": 10.001965
+		},
+		"name": "Hjørring"
+	},
+	{
+		"coordinates": {
+			"lat": 56.363105,
+			"lng": 8.612455
+		},
+		"name": "Holstebro"
+	},
+	{
+		"coordinates": {
+			"lat": 55.624722,
+			"lng": 8.47982
+		},
+		"name": "Varde"
+	},
+	{
+		"coordinates": {
+			"lat": 55.479559,
+			"lng": 8.495693
+		},
+		"name": "Esbjerg - Storegade"
+	},
+	{
+		"coordinates": {
+			"lat": 55.508377,
+			"lng": 8.455578
+		},
+		"name": "Gjesing"
+	},
+	{
+		"coordinates": {
+			"lat": 55.466005,
+			"lng": 8.451919
+		},
+		"name": "Esbjerg - Kongensgade"
+	},
+	{
+		"coordinates": {
+			"lat": 56.487822,
+			"lng": 8.582822
+		},
+		"name": "Struer"
+	},
+	{
+		"coordinates": {
+			"lat": 56.091458,
+			"lng": 8.239895
+		},
+		"name": "Ringkøbing"
+	}
+]
